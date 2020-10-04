@@ -1,16 +1,26 @@
-### Hi there 👋
+###  Hi there 👋, Welcome to my Github Profile
+![JayGoyal96's github stats](https://github-readme-stats.vercel.app/api?username=JayGoyal96&show_icons=true&theme=gotham&hide=issues,stars&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayGoyal96&layout=compact)](https://github.com/JayGoyal96/github-readme-stats)
 
-<!--
-**JayGoyal96/JayGoyal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Pursuing B.Tech in Computer Science and Engineering
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning Android Development, Machine Learning
+- ⚡ Fun fact: Humans are the only animals that blush
+- 🎉 Let's connect on [LinkedIn](https://www.linkedin.com/in/jaygoyal96)
 
-Here are some ideas to get you started:
+# Skills🥇
+## Languages
+> Python 3, C, Java, Arduino
+## OS
+> Linux/GNU, Windows
+## IoT
+>Arduino with sensors, Raspberry Pi, NodeMCU
+## Other
+>Data structures and Algorithms, Git, Vim, Sublime Text
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕵 Take a look at my repositories and let's get in touch!
+
+<a href="https://twitter.com/JayGoyal96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jaygoyal96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/vvip.96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
