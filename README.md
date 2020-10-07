@@ -10,7 +10,7 @@
 
 # Skills🥇
 ## Languages
-> Python 3, C, Java, Arduino
+> Python 3, C, Java, Arduino, Html, CSS, JS
 ## OS
 > Linux/GNU, Windows
 ## IoT
