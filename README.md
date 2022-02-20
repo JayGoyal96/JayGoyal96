@@ -13,7 +13,7 @@
   
 > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/TailwindCSS-%2300ADD8?style=for-the-badge&logo=tailwindcss&logoColor=white" height="25"/>
 > <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
 > <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
 
@@ -29,12 +29,16 @@
 > <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
 > <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/>
   
+> <img src="https://img.shields.io/badge/docker-%2300ADD8.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>  
 >	<img src="https://img.shields.io/badge/linux-FB7A24.svg?&style=for-the-badge&logo=linux&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" height="25"/>
 > <img src="https://img.shields.io/badge/shell-8892BF.svg?&style=for-the-badge&logo=linux&logoColor=black" height="25"/>
 > <img src="https://img.shields.io/badge/nginx-007ACC.svg?&style=for-the-badge&logo=nginx&logoColor=green" height="25"/>
 >	<img src="https://img.shields.io/badge/apache-FB7A24.svg?&style=for-the-badge&logo=apache&logoColor=brown" height="25"/>
->	<img src="https://img.shields.io/badge/git-E84E31.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/></p>
+>	<img src="https://img.shields.io/badge/git-E84E31.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
+
+> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="25"/></p>
 #### IoT
 > Arduino with sensors, Raspberry Pi, NodeMCU
 #### Other
