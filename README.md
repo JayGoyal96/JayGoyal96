@@ -1,51 +1,45 @@
-###  Hi there 👋
-- 🎓 Pursuing B.Tech in Computer Science and Engineering
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Android Development, Machine Learning
-- 🎉 Let's connect on [LinkedIn](https://www.linkedin.com/in/jaygoyal96)
+<h1 align="center">Hi there 👋, I'm Jay Goyal</h1>
 
-#### Skills🥇
-> <p display="inline">
-> <img src="https://img.shields.io/badge/python-F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/>
-  
-> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/TailwindCSS-%2300ADD8?style=for-the-badge&logo=tailwindcss&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
-> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
+<p align="center">Backend Developer • Golang Enthusiast • Kubernetes Practitioner</p>
 
-> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
-> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=Node.js&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+---
 
-> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25"/>
-> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/>
-  
-> <img src="https://img.shields.io/badge/docker-%2300ADD8.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>  
->	<img src="https://img.shields.io/badge/linux-FB7A24.svg?&style=for-the-badge&logo=linux&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/shell-8892BF.svg?&style=for-the-badge&logo=linux&logoColor=black" height="25"/>
-> <img src="https://img.shields.io/badge/nginx-007ACC.svg?&style=for-the-badge&logo=nginx&logoColor=green" height="25"/>
->	<img src="https://img.shields.io/badge/apache-FB7A24.svg?&style=for-the-badge&logo=apache&logoColor=brown" height="25"/>
->	<img src="https://img.shields.io/badge/git-E84E31.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
+### 👨‍💻 About Me
 
-> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
-> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="25"/></p>
-#### IoT
-> Arduino with sensors, Raspberry Pi, NodeMCU
-#### Other
-> Data structures and Algorithms
+- 🛠️ Backend Developer at **IBM Cloud**, working on Bare Metal Infrastructure  
+- 💻 Ex-ZopSmart, where I built scalable backend frameworks and DevOps automation  
+- 🧠 Passionate about backend architecture, system design, and cloud-native tooling  
+- 👨‍🏫 Enjoy mentoring developers, optimizing workflows, and streamlining infrastructure
 
-🕵 Take a look at my repositories and let's get in touch!
-<br/><br/>
-<a href="https://twitter.com/JayGoyal96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jaygoyal96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/_jay96_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+---
+
+### ⚙️ Tech Stack
+
+#### 💻 Languages
+> <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+
+#### ☸️ Infra & DevOps
+> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
+> <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="25"/>
+
+#### 📊 Observability
+> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="25"/>
+
+#### 🛢️ Databases
+> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+> <img src="https://img.shields.io/badge/NoSQL-005C84?style=for-the-badge&logo=apache-cassandra&logoColor=white" height="25"/>
+
+---
+
+### 🤝 Connect with Me
+> <a href="https://linkedin.com/in/jaygoyal96" target="_blank" ><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" /></a>
+> <a href="https://x.com/JayGoyal96" target="_blank" ><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="25" /></a>
